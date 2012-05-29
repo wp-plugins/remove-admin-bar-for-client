@@ -16,6 +16,8 @@ Just Activate the plugin and your are ready to go.
 
 Click <a href="http://dineshkarki.com.np/donate">here</a> and show love to this plugin.
 
+Thanks to <a href="http://wework4web.com" target="_blank">wework4web</a> for supporting plugin developement.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/` directory
