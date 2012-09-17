@@ -1,6 +1,6 @@
 === Remove Admin Bar ===
 Contributors: dnesscarkey
-Donate link: https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=CoSmAsg1SlUJbGDMxLwV7wM4joP3dvPi_YOdi9LWuA-sQCEt5onGnW-BQ6i&dispatch=5885d80a13c0db1f8e263663d3faee8d8494db9703d295b4a2116480ee01a05c
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYPYWFP6P2KQJ
 Tags: admin bar, admin
 Requires at least: 3.0.
 Tested up to: 3.3.2
