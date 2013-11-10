@@ -1,10 +1,10 @@
 <?php
 /* 
 Plugin Name: Remove Admin Bar
-Plugin URI: http://dineshkarki.com.np/plugins/remove-admin-bar-for-client
+Plugin URI: http://dineshkarki.com.np/remove-admin-bar-for-client
 Description: Remove Admin Bar From Front End.
 Author: Dinesh Karki
-Version: 0.1
+Version: 1.0
 Author URI: http://www.dineshkarki.com.np
 */
 

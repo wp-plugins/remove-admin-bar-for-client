@@ -1,10 +1,10 @@
 === Remove Admin Bar ===
 Contributors: dnesscarkey
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TYPYWFP6P2KQJ
-Tags: admin bar, admin
-Requires at least: 3.0.
-Tested up to: 3.3.2
-Stable tag: 0.1
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NX89F5F93YTZJ
+Tags: admin bar, admin, hide admin bar, remove admin bar from client, disable admin bar
+Requires at least: 3.0
+Tested up to: 3.7.1
+Stable tag: 1.0
 
 This plugin removes Admin Bar from user end.
 
@@ -12,9 +12,7 @@ This plugin removes Admin Bar from user end.
 
 This Plugin removes Admin Bar from user end.
 
-Just Activate the plugin and your are ready to go.
-
-Click <a href="http://dineshkarki.com.np/donate">here</a> and show love to this plugin.
+Just Activate the plugin and you are ready to go.
 
 Thanks to <a href="http://wework4web.com" target="_blank">wework4web</a> for supporting plugin developement.
 
