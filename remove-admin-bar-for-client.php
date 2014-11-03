@@ -4,7 +4,7 @@ Plugin Name: Remove Admin Bar
 Plugin URI: http://dineshkarki.com.np/remove-admin-bar-for-client
 Description: Remove Admin Bar From Front End.
 Author: Dinesh Karki
-Version: 1.0
+Version: 1.1
 Author URI: http://www.dineshkarki.com.np
 */
 
