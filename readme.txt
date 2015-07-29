@@ -2,8 +2,8 @@
 Contributors: dnesscarkey
 Tags: admin bar, admin, hide admin bar, remove admin bar from client, disable admin bar
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 1.1
+Tested up to: 4.2.3
+Stable tag: 1.2
 
 This plugin removes Admin Bar from user end.
 
@@ -44,6 +44,9 @@ No, It only works for Front end.
 1. Admin Bar.
 
 == Changelog ==
+
+= 1.2 =
+* Tested with 4.2.3
 
 = 0.1 =
 * First Release
